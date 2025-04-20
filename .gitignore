@@ -1,0 +1,19 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore user config
+*.VC.db
+*.VC.opendb
+*.user
+*.suo
+
+# Ignore other OS-specific clutter
+.DS_Store
+Thumbs.db
