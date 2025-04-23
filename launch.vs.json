@@ -1,0 +1,13 @@
+{
+    "version": "0.2.1",
+    "defaults": {},
+    "configurations": [
+        {
+            "project": "ISP_Simulation_Pipeline",
+            "projectTarget": "ISP_Simulation_Pipeline.exe",
+            "name": "Set working directory to project root",
+            "type": "default",
+            "workingDirectory": "${projectDir}"
+        }
+    ]
+}
